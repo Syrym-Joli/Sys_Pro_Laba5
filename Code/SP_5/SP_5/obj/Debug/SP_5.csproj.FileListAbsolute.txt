@@ -1,0 +1,9 @@
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\bin\Debug\SP_5.exe.config
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\bin\Debug\SP_5.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\bin\Debug\SP_5.pdb
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.csprojResolveAssemblyReference.cache
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.Form1.resources
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.Properties.Resources.resources
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.csproj.GenerateResource.Cache
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.exe
+D:\Documents\Уроки\3 Курс\2 семестр\Сис.програм\SP-laba5\Code\SP_5\SP_5\obj\Debug\SP_5.pdb
