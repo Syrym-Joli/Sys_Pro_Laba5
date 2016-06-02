@@ -123,9 +123,13 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.ClientSize = new System.Drawing.Size(421, 324);
             this.Controls.Add(this.panel1);
+            this.DataBindings.Add(new System.Windows.Forms.Binding("Location", global::SP_5.Properties.Settings.Default, "Loc", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
             this.KeyPreview = true;
+            this.Location = global::SP_5.Properties.Settings.Default.Loc;
             this.Name = "Form1";
             this.Text = "SP_5";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
